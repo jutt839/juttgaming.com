@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+header{
+
+background-image: url(./ull.jpg);
+background-size: cover;
+background-position: center;
+height: 100vh;
+
+}
+
+div{
+
+	text-align: center;
+	padding-top: 300px;
+}
+input{
+
+
+	margin: 2px;
+}
+div a{
+	text-decoration: none;
+}
+div input{
+
+	margin: 4px;
+	border: 2px solid gold;
+	color: black;
+	padding: 5px;
+	border-bottom-left-radius: 20px;
+
+}
+button{
+margin-top: 2px;
+
+}

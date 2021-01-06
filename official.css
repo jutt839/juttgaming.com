@@ -1,0 +1,92 @@
+*{
+margin: 0;
+padding: 0;
+font-family: century gothic;
+
+
+}
+header{
+	background-image: url(./aa.jpg);
+background-size: cover;
+background-position: center;
+height: 100vh;
+
+}
+ul{
+	float: right;
+	margin: 25px;
+	list-style-type: none;
+}
+ul li{
+display: inline-block;
+padding: 10px;
+
+
+}
+
+ul li a {
+border:transparent;
+text-decoration: none;
+color: white;
+padding:5px 20px; 
+	border-radius: 20px 70px;
+	transition: 0.8 ease;
+
+}
+ul li a:hover{
+background:  brown;
+
+
+
+}
+ul li.active a{
+
+	background-color: brown;
+}
+
+.logo img{
+
+	float: top right;
+	height: 60px;
+	width: 60px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background:transparent;
+}
+
+.button{
+	position: absolute;
+	top: 62%;
+	left: 40%;
+	font-size: 20px;
+	border:2px solid white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.btn{
+color: white;
+padding: 5px 10px;
+border:1px transparent;
+text-decoration: none;
+margin: 10px;
+border-radius: 20px 10px;
+
+
+}
+.btn:hover{
+background-color: brown;
+
+
+} 
+
+.ss{
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	color: white;
+	font-size: 60px;
+}
+

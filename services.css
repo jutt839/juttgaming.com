@@ -1,0 +1,43 @@
+header{
+	
+	background-image:url(./ull.jpg);
+	background-size: cover;
+background-position: center;
+height: 200vh;
+}
+ul{
+
+
+
+	padding-top: 40px;
+	list-style-type: none;
+}
+ul li{
+
+font-size: 30px;
+text-align: center;
+text-decoration: none;
+padding:10px;
+color: gold;
+
+
+
+}
+
+.ma{
+
+margin: 0;
+	border: 5px solid #061a7d;
+	color: gold;
+
+}
+.qq{
+border: 5px solid #061a7d;
+margin-top: 2px;
+
+
+}
+
+
+
+
